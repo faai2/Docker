@@ -1,4 +1,4 @@
-After setup see this [docker-compose.yml](./docker-compose.yml)
+After setup docker-compose.yml [docker-compose.yml](./docker-compose.yml)
 
 Run this command:
 
